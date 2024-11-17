@@ -1,0 +1,21 @@
+{
+  "name": "back-end-development",
+  "version": "1.0.0",
+  "description": "chai-aur-code",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "chai",
+    "express",
+    "deployment",
+    "code"
+  ],
+  "author": "Muhammad Suleman",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1"
+  }
+}
