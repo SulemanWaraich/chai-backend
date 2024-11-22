@@ -1,0 +1,2 @@
+Proxy is a solution of CORS.
+It is one of the many solutions.
